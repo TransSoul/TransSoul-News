@@ -75,26 +75,8 @@ theme:
 #! @docs https://aurora.tridiamond.tech/guide/social.html
 #! ---------------------------------------------------------------
 socials:
-  customs:
-  ##! Example:
-  ##! --- Using SVG
-  # bilibili:
-  #   icon: http://localhost:4000/svg/bilibili.svg
-  #   link: https://live.bilibili.com/22619211
-
-  ##! --- Using IconFont
-  # baidu:
-  #   icon: iconfont icon-baidu
-  #   link: https://live.bilibili.com/22619211
-
-  ##! --- Using FontAwesome
-  # book:
-  #   icon: far fa-address-book
-  #   link: https://live.bilibili.com/22619211
-
-#! ---------------------------------------------------------------
-#! Site Meta Configs
-#! @docs https://aurora.tridiamond.tech/guide/theme.html
+  github: 'https://github.com/TransSoul'
+  twitter: 'https://x.com/@TransSoul_HK'
 #! ---------------------------------------------------------------
 site_meta:
   cdn: cn
